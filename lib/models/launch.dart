@@ -1,4 +1,4 @@
-import 'package:falconspacex/models/rocket.dart';
+import 'package:Falcon/models/rocket.dart';
 
 class Launch {
   final DateTime launchUTC;
